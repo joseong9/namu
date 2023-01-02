@@ -4,9 +4,9 @@ import parse from 'html-react-parser';
 import { CKEditor } from '@ckeditor/ckeditor5-react';
 import ClassicEditor from '@ckeditor/ckeditor5-build-classic';
 import Axios from 'axios';
-import {Routes, Route} from 'react-router-dom';
-import Header from './layout/Header';
-import Navbar from './layout/Navbar';
+// import {Routes, Route} from 'react-router-dom';
+// import Header from './layout/Header';
+// import Navbar from './layout/Navbar';
 
 
 function App() {

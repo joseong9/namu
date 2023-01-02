@@ -24,7 +24,6 @@ app.get('/api/get', (req, res) => {
     conn.query(sqlQurey, (err, result) => {
         res.send(result);
         console.log(result)
-        console.log(err)
     })
 })
 
